@@ -1,37 +1,48 @@
-### Hi there, I'm eminsk 👋
+﻿### Hi there, I'm eminsk 👋
 
-**Python Developer** specializing in desktop applications (GUI), asynchronous architectures, web scraping & automation, and algorithmic trading tools.
+**Software Engineer & Systems Developer** with an engineering background spanning back to the **early 2000s**.
+
+Combining decades of foundational systems programming — from low-level architectures (x86/x64 Assembly, Win32 API, C) to modern high-performance Python engineering, asynchronous services, desktop applications, and algorithmic data pipelines.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-@charter2029-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/charter2029)
 [![Email Badge](https://img.shields.io/badge/Email-M__N__Nik@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:M_N_Nik@yahoo.com)
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🧭 Engineering Philosophy & Background
 
-- **Languages & Core:** Python (3.10–3.14), Asyncio, Multithreading, OOP, Design Patterns
-- **Desktop & UI:** Flet, CustomTkinter, Tkinter, ttkbootstrap, Nuitka (standalone compilation)
-- **Data & Office:** OpenPyXL, Pandas, TA-Lib, JSON, CSV, SQLite
-- **Automation & Web:** Web Scraping, Playwright, Requests, cURL-cffi, Pydantic, REST APIs
-- **Tooling & Quality:** uv, ruff, mypy, pytest, unittest, Git, GitHub Actions
+- **Decades of Craft:** Writing code since the early 2000s, built on a deep understanding of memory management, operating system internals, and native Win32/POSIX runtime behavior.
+- **Hardware-Aware Performance:** Bridging high-level Python productivity with bare-metal speed — leveraging custom SIMD SSE2 vectorized math kernels, FASM assembly, and zero-copy C extensions.
+- **Architectural Discipline:** Strong emphasis on clean code separation, strict typing (mypy), modern tooling (uv, uff), reproducible builds, and standalone compilation (Nuitka).
+
+---
+
+### 🛠 Tech Stack & Core Competencies
+
+- **Languages:** Python (3.10–3.14), x86/x64 Assembly (FASM), C / Win32 API
+- **Concurrency & Internals:** Asyncio, Threading, SIMD Vectorization (SSE2/AVX), ctypes & C FFI, Inter-Process Communication (IPC)
+- **Desktop & UI Engineering:** CustomTkinter, Flet, Tkinter, ttkbootstrap, High-DPI scaling, Nuitka compilation
+- **Data, Math & Trading:** OpenPyXL, Pandas, TA-Lib (technical analysis & pattern recognition), NumPy, SQLite
+- **Web, Scraping & Automation:** Playwright, Requests, cURL-cffi, Pydantic, REST APIs, Session & Auth management
+- **Quality & DevTools:** uv, ruff, mypy, pytest, Git, GitHub Actions CI/CD
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — Full-featured desktop spreadsheet processor (80+ formula functions, Chart Wizard, AutoFilter, Conditional Formatting, Goal Seek).
-- **[screenvideo](https://github.com/eminsk/screenvideo)** — Lightweight screen recorder & screenshot tool with modular architecture, High-DPI support, and Nuitka `.exe` compilation.
-- **[StackOverflowAPI](https://github.com/eminsk/StackOverflowAPI)** — Modern bilingual desktop client for Stack Overflow built with CustomTkinter, Catppuccin themes, syntax highlighting, and thread-safe background updates.
-- **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** — Candlestick pattern scanner using TA-Lib and yfinance with CLI, backtesting engine, and Python 3.12–3.14 compatibility.
+- **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — Professional desktop spreadsheet processor featuring 80+ formula functions, Chart Wizard, AutoFilter, Conditional Formatting, and hardware-accelerated SIMD SSE2 math engine.
+- **[screenvideo](https://github.com/eminsk/screenvideo)** — High-performance desktop screen recorder and screenshot suite with modular architecture, WASAPI audio capture, real-time H.264 stream pipe, and Nuitka standalone build.
+- **[StackOverflowAPI](https://github.com/eminsk/StackOverflowAPI)** — Modern bilingual desktop client for Stack Overflow built with CustomTkinter, Catppuccin palettes, syntax highlighting, offline bookmarking, and thread-safe API client.
+- **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** — Candlestick pattern scanner and backtesting suite powered by TA-Lib and yfinance with CLI, automated GitHub Actions CI, and Python 3.12–3.14 support.
 
 ---
 
 ### 🌐 Open Source Contributions
 
-- **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
-- **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Fixed runtime `ZeroDivisionError` in `Columns` when available width is smaller than item width.
-- **[encode/starlette](https://github.com/encode/starlette)** (11.5k+ ⭐) — [PR #3506](https://github.com/encode/starlette/pull/3506) / [Issue #3497](https://github.com/encode/starlette/issues/3497): Fixed `DeprecationWarning` on `anyio.from_thread.BlockingPortal` affecting downstream test suites.
-- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled `AttributeError` on `access_token` in Copilot provider.
+- **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash PermissionError on read-only files during directory cleanup.
+- **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Fixed runtime ZeroDivisionError in Columns when available width is smaller than item width.
+- **[encode/starlette](https://github.com/encode/starlette)** (11.5k+ ⭐) — [PR #3506](https://github.com/encode/starlette/pull/3506) / [Issue #3497](https://github.com/encode/starlette/issues/3497): Fixed DeprecationWarning on nyio.from_thread.BlockingPortal affecting downstream test suites.
+- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled AttributeError on ccess_token in Copilot provider.
 - **[Duff89/parser_avito](https://github.com/Duff89/parser_avito)** — [PR #327](https://github.com/Duff89/parser_avito/pull/327): Fixed critical crashes in address filter, Excel export edge cases, and GUI thread freeze.
 
 ---
