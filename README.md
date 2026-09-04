@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack & Tools
 
 - **Languages & Core:** Python (3.10–3.14), Asyncio, Multithreading, OOP, Design Patterns
-- **Desktop & UI:** CustomTkinter, Tkinter, ttkbootstrap, Nuitka (standalone compilation)
+- **Desktop & UI:** Flet, CustomTkinter, Tkinter, ttkbootstrap, Nuitka (standalone compilation)
 - **Data & Office:** OpenPyXL, Pandas, TA-Lib, JSON, CSV, SQLite
 - **Automation & Web:** Web Scraping, Playwright, Requests, cURL-cffi, Pydantic, REST APIs
 - **Tooling & Quality:** uv, ruff, mypy, pytest, unittest, Git, GitHub Actions
@@ -28,6 +28,7 @@
 
 ### 🌐 Open Source Contributions
 
+- **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
 - **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Fixed runtime `ZeroDivisionError` in `Columns` when available width is smaller than item width.
 - **[encode/starlette](https://github.com/encode/starlette)** (11.5k+ ⭐) — [PR #3506](https://github.com/encode/starlette/pull/3506) / [Issue #3497](https://github.com/encode/starlette/issues/3497): Fixed `DeprecationWarning` on `anyio.from_thread.BlockingPortal` affecting downstream test suites.
 - **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled `AttributeError` on `access_token` in Copilot provider.
