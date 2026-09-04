@@ -1,4 +1,4 @@
-﻿### Hi there, I'm eminsk 👋
+### Hi there, I'm eminsk 👋
 
 **Software Engineer & Systems Developer** with an engineering background spanning back to the **early 2000s**.
 
@@ -39,6 +39,7 @@ Combining decades of foundational systems programming — from low-level archite
 
 ### 🌐 Open Source Contributions
 
+- **[pallets/click](https://github.com/pallets/click)** (16k+ ⭐) — [PR #3837](https://github.com/pallets/click/pull/3837) / [Issue #3362](https://github.com/pallets/click/issues/3362): Fixed CLI option wrapping in `HelpFormatter.write_usage` to prevent breaking hyphenated options across lines.
 - **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
 - **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Fixed runtime `ZeroDivisionError` in `Columns` when available width is smaller than item width.
 - **[encode/starlette](https://github.com/encode/starlette)** (11.5k+ ⭐) — [PR #3506](https://github.com/encode/starlette/pull/3506) / [Issue #3497](https://github.com/encode/starlette/issues/3497): Fixed `DeprecationWarning` on `anyio.from_thread.BlockingPortal` affecting downstream test suites.
