@@ -39,13 +39,11 @@ Combining decades of foundational systems programming — from low-level archite
 
 ### 🌐 Open Source Contributions
 
-- **[pallets/click](https://github.com/pallets/click)** (16k+ ⭐) — [PR #3837](https://github.com/pallets/click/pull/3837) / [Issue #3362](https://github.com/pallets/click/issues/3362): Fixed CLI option wrapping in `HelpFormatter.write_usage` to prevent breaking hyphenated options across lines.
-- **[pallets/jinja](https://github.com/pallets/jinja)** (10k+ ⭐) — [PR #2262](https://github.com/pallets/jinja/pull/2262) / [Issue #2165](https://github.com/pallets/jinja/issues/2165): Fixed `map(attribute=..., default=None)` ignoring `default=None` and causing `UndefinedError` in strict environments like Ansible.
+- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514 (Merged)](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled `AttributeError` on `access_token` in Copilot provider.
 - **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
 - **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Root-cause diagnosis & verified fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Resolved `ZeroDivisionError` in `Columns` when available terminal width is smaller than item width plus padding.
 - **[Textualize/textual](https://github.com/Textualize/textual)** (26k+ ⭐) — [Fix & Tests for Issue #6708](https://github.com/Textualize/textual/issues/6708): Resolved unhandled `IndexError` in `Selection.extract` when mouse selecting on/across trailing empty lines of widgets.
 - **[encode/starlette](https://github.com/encode/starlette)** (11.5k+ ⭐) — [PR #3506](https://github.com/encode/starlette/pull/3506) / [Issue #3497](https://github.com/encode/starlette/issues/3497): Fixed `DeprecationWarning` on `anyio.from_thread.BlockingPortal` affecting downstream test suites.
-- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled `AttributeError` on `access_token` in Copilot provider.
 - **[Duff89/parser_avito](https://github.com/Duff89/parser_avito)** — [PR #327](https://github.com/Duff89/parser_avito/pull/327): Fixed critical crashes in address filter, Excel export edge cases, and GUI thread freeze.
 
 ---
