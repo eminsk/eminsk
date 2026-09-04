@@ -13,7 +13,7 @@ Combining decades of foundational systems programming — from low-level archite
 
 - **Decades of Craft:** Writing code since the early 2000s, built on a deep understanding of memory management, operating system internals, and native Win32/POSIX runtime behavior.
 - **Hardware-Aware Performance:** Bridging high-level Python productivity with bare-metal speed — leveraging custom SIMD SSE2 vectorized math kernels, FASM assembly, and zero-copy C extensions.
-- **Architectural Discipline:** Strong emphasis on clean code separation, strict typing (mypy), modern tooling (uv, uff), reproducible builds, and standalone compilation (Nuitka).
+- **Architectural Discipline:** Strong emphasis on clean code separation, strict typing (`mypy`), modern tooling (`uv`, `ruff`), reproducible builds, and standalone compilation (`Nuitka`).
 
 ---
 
@@ -39,10 +39,10 @@ Combining decades of foundational systems programming — from low-level archite
 
 ### 🌐 Open Source Contributions
 
-- **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash PermissionError on read-only files during directory cleanup.
-- **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Fixed runtime ZeroDivisionError in Columns when available width is smaller than item width.
-- **[encode/starlette](https://github.com/encode/starlette)** (11.5k+ ⭐) — [PR #3506](https://github.com/encode/starlette/pull/3506) / [Issue #3497](https://github.com/encode/starlette/issues/3497): Fixed DeprecationWarning on nyio.from_thread.BlockingPortal affecting downstream test suites.
-- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled AttributeError on ccess_token in Copilot provider.
+- **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
+- **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Fixed runtime `ZeroDivisionError` in `Columns` when available width is smaller than item width.
+- **[encode/starlette](https://github.com/encode/starlette)** (11.5k+ ⭐) — [PR #3506](https://github.com/encode/starlette/pull/3506) / [Issue #3497](https://github.com/encode/starlette/issues/3497): Fixed `DeprecationWarning` on `anyio.from_thread.BlockingPortal` affecting downstream test suites.
+- **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled `AttributeError` on `access_token` in Copilot provider.
 - **[Duff89/parser_avito](https://github.com/Duff89/parser_avito)** — [PR #327](https://github.com/Duff89/parser_avito/pull/327): Fixed critical crashes in address filter, Excel export edge cases, and GUI thread freeze.
 
 ---
