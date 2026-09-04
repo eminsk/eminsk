@@ -40,6 +40,7 @@ Combining decades of foundational systems programming — from low-level archite
 ### 🌐 Open Source Contributions
 
 - **[pallets/click](https://github.com/pallets/click)** (16k+ ⭐) — [PR #3837](https://github.com/pallets/click/pull/3837) / [Issue #3362](https://github.com/pallets/click/issues/3362): Fixed CLI option wrapping in `HelpFormatter.write_usage` to prevent breaking hyphenated options across lines.
+- **[pallets/jinja](https://github.com/pallets/jinja)** (10k+ ⭐) — [PR #2262](https://github.com/pallets/jinja/pull/2262) / [Issue #2165](https://github.com/pallets/jinja/issues/2165): Fixed `map(attribute=..., default=None)` ignoring `default=None` and causing `UndefinedError` in strict environments like Ansible.
 - **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
 - **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Root-cause diagnosis & verified fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Resolved `TypeError` during layout rendering with empty child renderables.
 - **[Textualize/textual](https://github.com/Textualize/textual)** (26k+ ⭐) — [Fix & Tests for Issue #6708](https://github.com/Textualize/textual/issues/6708): Resolved unhandled `IndexError` in `Selection.extract` when mouse selecting on/across trailing empty lines of widgets.
