@@ -13,7 +13,7 @@ Combining decades of foundational systems programming — from low-level archite
 
 - **Decades of Craft:** Writing code since the early 2000s, built on a deep understanding of memory management, operating system internals, and native Win32/POSIX runtime behavior.
 - **Hardware-Aware Performance:** Bridging high-level Python productivity with bare-metal speed — leveraging custom SIMD SSE2 vectorized math kernels, FASM assembly, and zero-copy C extensions.
-- **Architectural Discipline:** Strong emphasis on clean code separation, strict typing (`mypy`), modern tooling (`uv`, `ruff`), reproducible builds, and standalone compilation (`Nuitka`).
+- **Architectural Discipline:** Strong emphasis on clean code separation, strict typing (`mypy`), modern tooling (`uv`, `ruff`), reproducible builds, and native assembly compilation (`FASM x64`).
 
 ---
 
@@ -21,7 +21,7 @@ Combining decades of foundational systems programming — from low-level archite
 
 - **Languages:** Python (3.10–3.14), x86/x64 Assembly (FASM), C / Win32 API
 - **Concurrency & Internals:** Asyncio, Threading, SIMD Vectorization (SSE2/AVX), ctypes & C FFI, Inter-Process Communication (IPC)
-- **Desktop & UI Engineering:** CustomTkinter, Flet, Tkinter, ttkbootstrap, High-DPI scaling, Nuitka compilation
+- **Desktop & UI Engineering:** CustomTkinter, Flet, Tkinter, ttkbootstrap, High-DPI scaling, Native Win32/FASM x64 engineering
 - **Data, Math & Trading:** OpenPyXL, Pandas, TA-Lib (technical analysis & pattern recognition), NumPy, SQLite
 - **Web, Scraping & Automation:** Playwright, Requests, cURL-cffi, Pydantic, REST APIs, Session & Auth management
 - **Quality & DevTools:** uv, ruff, mypy, pytest, Git, GitHub Actions CI/CD
@@ -31,8 +31,8 @@ Combining decades of foundational systems programming — from low-level archite
 ### 🚀 Featured Projects
 
 - **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — Professional desktop spreadsheet processor featuring 80+ formula functions, Chart Wizard, AutoFilter, Conditional Formatting, and hardware-accelerated SIMD SSE2 math engine.
-- **[screenvideo](https://github.com/eminsk/screenvideo)** — High-performance desktop screen recorder and screenshot suite with modular architecture, WASAPI audio capture, real-time H.264 stream pipe, and Nuitka standalone build.
-- **[StackOverflowAPI](https://github.com/eminsk/StackOverflowAPI)** — Modern bilingual desktop client for Stack Overflow built with CustomTkinter, Catppuccin palettes, syntax highlighting, offline bookmarking, and thread-safe API client.
+- **[screenvideo](https://github.com/eminsk/screenvideo)** — High-performance desktop screen recorder and screenshot suite with modular architecture, WASAPI audio capture, real-time H.264 stream pipe, and pure x64 Flat Assembler (FASM) native edition.
+- **[StackOverflowAPI](https://github.com/eminsk/StackOverflowAPI)** — Modern bilingual desktop client for Stack Overflow built with CustomTkinter, Catppuccin palettes, syntax highlighting, offline bookmarking, and native FASM x64 search client.
 - **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** — Candlestick pattern scanner and backtesting suite powered by TA-Lib and yfinance with CLI, automated GitHub Actions CI, and Python 3.12–3.14 support.
 
 ---
