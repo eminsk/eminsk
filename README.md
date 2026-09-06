@@ -1,4 +1,4 @@
-### Hi there, I'm eminsk 👋
+### Hi there, I'm Software Engineer👋
 
 **Software Engineer & Systems Developer** with an engineering background spanning back to the **early 2000s**.
 
