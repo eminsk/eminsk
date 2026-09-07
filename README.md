@@ -30,20 +30,20 @@ Combining decades of foundational systems programming — from low-level archite
 
 ### 🚀 Featured Projects
 
-- **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — Professional desktop spreadsheet processor featuring 80+ formula functions, Chart Wizard, AutoFilter, Conditional Formatting, and hardware-accelerated SIMD SSE2 math engine.
-- **[screenvideo](https://github.com/eminsk/screenvideo)** — High-performance desktop screen recorder and screenshot suite with modular architecture, WASAPI audio capture, real-time H.264 stream pipe, and pure x64 Flat Assembler (FASM) native edition.
+- **[screenvideo](https://github.com/eminsk/screenvideo)** — High-performance desktop screen recorder and screenshot suite featuring WASAPI loopback audio, real-time H.264 streaming, and a standalone pure x64 Flat Assembler (FASM) native edition ([Release v2.0.0](https://github.com/eminsk/screenvideo/releases/tag/v2.0.0)).
+- **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — Professional desktop spreadsheet processor featuring 80+ formula functions, Chart Wizard, AutoFilter, Conditional Formatting, Goal Seek, and hardware-accelerated SIMD SSE2 math engine.
+- **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** — Algorithmic candlestick pattern scanner, backtesting and AI ranking suite powered by TA-Lib and yfinance with PyPI package build, automated GitHub Actions CI, and Python 3.12–3.14 support.
 - **[StackOverflowAPI](https://github.com/eminsk/StackOverflowAPI)** — Modern bilingual desktop client for Stack Overflow built with CustomTkinter, Catppuccin palettes, syntax highlighting, offline bookmarking, and native FASM x64 search client.
-- **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** — Candlestick pattern scanner and backtesting suite powered by TA-Lib and yfinance with CLI, automated GitHub Actions CI, and Python 3.12–3.14 support.
 
 ---
 
 ### 🌐 Open Source Contributions
 
 - **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514 (Merged)](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled `AttributeError` on `access_token` in Copilot provider.
+- **[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)** (8.5k+ ⭐) — [PR #8449](https://github.com/sqlfluff/sqlfluff/pull/8449) / [Issue #8171](https://github.com/sqlfluff/sqlfluff/issues/8171): Added support for MySQL-family `CONVERT(expr, type)` argument ordering across the SQL parser and rule engines.
 - **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
 - **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Root-cause diagnosis & verified fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Resolved `ZeroDivisionError` in `Columns` when available terminal width is smaller than item width plus padding.
 - **[Textualize/textual](https://github.com/Textualize/textual)** (26k+ ⭐) — [Fix & Tests for Issue #6708](https://github.com/Textualize/textual/issues/6708): Resolved unhandled `IndexError` in `Selection.extract` when mouse selecting on/across trailing empty lines of widgets.
-- **[encode/starlette](https://github.com/encode/starlette)** (11.5k+ ⭐) — [PR #3506](https://github.com/encode/starlette/pull/3506) / [Issue #3497](https://github.com/encode/starlette/issues/3497): Fixed `DeprecationWarning` on `anyio.from_thread.BlockingPortal` affecting downstream test suites.
 - **[Duff89/parser_avito](https://github.com/Duff89/parser_avito)** — [PR #327](https://github.com/Duff89/parser_avito/pull/327): Fixed critical crashes in address filter, Excel export edge cases, and GUI thread freeze.
 
 ---
