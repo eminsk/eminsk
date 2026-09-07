@@ -30,10 +30,10 @@ Combining decades of foundational systems programming — from low-level archite
 
 ### 🚀 Featured Projects
 
-- **[nanogemm](https://github.com/eminsk/nanogemm)** — Minimalist, bare-metal AVX2+FMA SIMD matrix multiplication engine in ~100KB for Python, outperforming NumPy by up to 2.8x on CPU for edge neural network inference. Published on [PyPI](https://pypi.org/project/nanogemm/) and featured on [Habr](https://habr.com/ru/articles/1079480/).
+- **[nanogemm](https://github.com/eminsk/nanogemm)** — Minimalist, bare-metal AVX2+FMA SIMD matrix multiplication engine in ~100KB for Python, outperforming NumPy by up to 2.8x on CPU for edge neural network inference. Published on [PyPI](https://pypi.org/project/nanogemm/).
 - **[screenvideo](https://github.com/eminsk/screenvideo)** — High-performance desktop screen recorder and screenshot suite featuring WASAPI loopback audio, real-time H.264 streaming, and a standalone pure x64 Flat Assembler (FASM) native edition ([Release v2.0.0](https://github.com/eminsk/screenvideo/releases/tag/v2.0.0)).
 - **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — Professional desktop spreadsheet processor featuring 80+ formula functions, Chart Wizard, AutoFilter, Conditional Formatting, Goal Seek, and hardware-accelerated SIMD SSE2 math engine.
-- **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** — Algorithmic candlestick pattern scanner, backtesting and AI ranking suite powered by TA-Lib and yfinance with PyPI package build, automated GitHub Actions CI, and Python 3.12–3.14 support.
+- **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** — Algorithmic candlestick pattern scanner, backtesting and AI ranking suite powered by TA-Lib and yfinance. Published on [PyPI](https://pypi.org/project/yfinance-ta-patterns/) with automated GitHub Actions CI and Python 3.12–3.14 support.
 - **[StackOverflowAPI](https://github.com/eminsk/StackOverflowAPI)** — Modern bilingual desktop client for Stack Overflow built with CustomTkinter, Catppuccin palettes, syntax highlighting, offline bookmarking, and native FASM x64 search client.
 
 ---
