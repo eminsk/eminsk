@@ -19,7 +19,7 @@ Combining decades of foundational systems programming — from low-level archite
 
 ### 🛠 Tech Stack & Core Competencies
 
-- **Languages:** Python (3.10–3.14), x86/x64 Assembly (FASM), C / Win32 API
+- **Languages:** Python (3.10–3.15), x86/x64 Assembly (FASM), C / Win32 API
 - **Concurrency & Internals:** Asyncio, Threading, SIMD Vectorization (SSE2/AVX), ctypes & C FFI, Inter-Process Communication (IPC)
 - **Desktop & UI Engineering:** CustomTkinter, Flet, Tkinter, ttkbootstrap, High-DPI scaling, Native Win32/FASM x64 engineering
 - **Data, Math & Trading:** OpenPyXL, Pandas, TA-Lib (technical analysis & pattern recognition), NumPy, SQLite
@@ -32,7 +32,7 @@ Combining decades of foundational systems programming — from low-level archite
 
 - **[nanogemm](https://github.com/eminsk/nanogemm)** — Minimalist, bare-metal AVX2+FMA SIMD matrix multiplication engine in ~100KB for Python, outperforming NumPy by up to 2.8x on CPU for edge neural network inference. Published on [PyPI](https://pypi.org/project/nanogemm/) with Python 3.15 support and featured on [Dev.to](https://dev.to/eminsk/how-i-beat-numpy-matrix-multiplication-by-28x-with-a-100kb-c-microkernel-82k).
 - **[screenvideo](https://github.com/eminsk/screenvideo)** — High-performance desktop screen recorder and screenshot suite featuring WASAPI loopback audio, real-time H.264 streaming, and a standalone pure x64 Flat Assembler (FASM) native edition ([Release v2.0.0](https://github.com/eminsk/screenvideo/releases/tag/v2.0.0)).
-- **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — High-performance spreadsheet library and desktop processor with a headless 129-function formula engine, hardware-accelerated SIMD SSE2 math, Chart Wizard, AutoFilter, and Goal Seek. Published on [PyPI](https://pypi.org/project/xlsx-viewer-pro/) as `xlsx-viewer-pro`.
+- **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — High-performance spreadsheet library and desktop processor with a headless 129-function formula engine, hardware-accelerated SIMD SSE2 math, Chart Wizard, AutoFilter, and Goal Seek. Published on [PyPI](https://pypi.org/project/xlsx-viewer-pro/) as `xlsx-viewer-pro` with Python 3.10–3.15 support.
 - **[yfinance-ta-patterns](https://github.com/eminsk/yfinance-ta-patterns)** — Algorithmic candlestick pattern scanner, backtesting and AI ranking suite powered by TA-Lib and yfinance. Published on [PyPI](https://pypi.org/project/yfinance-ta-patterns/) with Python 3.12–3.15 support and precompiled native wheels.
 - **[StackOverflowAPI](https://github.com/eminsk/StackOverflowAPI)** — Modern bilingual desktop client for Stack Overflow built with CustomTkinter, Catppuccin palettes, syntax highlighting, offline bookmarking, and native FASM x64 search client.
 
