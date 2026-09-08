@@ -5,8 +5,7 @@
 Combining decades of foundational systems programming — from low-level architectures (x86/x64 Assembly, Win32 API, C) to modern high-performance Python engineering, asynchronous services, desktop applications, and algorithmic data pipelines.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-@charter2029-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/charter2029)
-[![Email Yahoo](https://img.shields.io/badge/Email-M__N__Nik@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:M_N_Nik@yahoo.com)
-[![Email Gmail](https://img.shields.io/badge/Email-eminsk.info@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eminsk.info@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-M__N__Nik@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:M_N_Nik@yahoo.com)
 
 ---
 
@@ -54,5 +53,5 @@ Combining decades of foundational systems programming — from low-level archite
 ### 📬 Get in Touch
 
 - **Telegram:** [@charter2029](https://t.me/charter2029)
-- **Email:** [M_N_Nik@yahoo.com](mailto:M_N_Nik@yahoo.com) | [eminsk.info@gmail.com](mailto:eminsk.info@gmail.com)
+- **Email:** [M_N_Nik@yahoo.com](mailto:M_N_Nik@yahoo.com)
 - **GitHub:** [github.com/eminsk](https://github.com/eminsk)
