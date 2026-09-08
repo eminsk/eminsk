@@ -1,11 +1,12 @@
-### Hi there, I'm Software Engineer👋
+### Hi there, I'm M_N_Nik 👋
 
 **Software Engineer & Systems Developer** with an engineering background spanning back to the **early 2000s**.
 
 Combining decades of foundational systems programming — from low-level architectures (x86/x64 Assembly, Win32 API, C) to modern high-performance Python engineering, asynchronous services, desktop applications, and algorithmic data pipelines.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-@charter2029-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/charter2029)
-[![Email Badge](https://img.shields.io/badge/Email-M__N__Nik@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:M_N_Nik@yahoo.com)
+[![Email Yahoo](https://img.shields.io/badge/Email-M__N__Nik@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:M_N_Nik@yahoo.com)
+[![Email Gmail](https://img.shields.io/badge/Email-eminsk.info@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eminsk.info@gmail.com)
 
 ---
 
@@ -41,16 +42,17 @@ Combining decades of foundational systems programming — from low-level archite
 ### 🌐 Open Source Contributions
 
 - **[xtekky/gpt4free](https://github.com/xtekky/gpt4free)** (65k+ ⭐) — [PR #3514 (Merged)](https://github.com/xtekky/gpt4free/pull/3514) / [Issue #3511](https://github.com/xtekky/gpt4free/issues/3511): Fixed unhandled `AttributeError` on `access_token` in Copilot provider.
+- **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817 (Merged)](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
 - **[sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)** (8.5k+ ⭐) — [PR #8449](https://github.com/sqlfluff/sqlfluff/pull/8449) / [Issue #8171](https://github.com/sqlfluff/sqlfluff/issues/8171): Added support for MySQL-family `CONVERT(expr, type)` argument ordering across the SQL parser and rule engines.
-- **[flet-dev/flet](https://github.com/flet-dev/flet)** (11k+ ⭐) — [PR #6817](https://github.com/flet-dev/flet/pull/6817) / [Issue #6808](https://github.com/flet-dev/flet/issues/6808): Fixed Windows build crash `PermissionError` on read-only files during directory cleanup.
+- **[marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)** (7k+ ⭐, 70M+/mo) — [PR #3046](https://github.com/marshmallow-code/marshmallow/pull/3046) / [Issue #2999](https://github.com/marshmallow-code/marshmallow/issues/2999): Fixed regex match in timestamp overflow tests to support Windows error messages.
 - **[Textualize/rich](https://github.com/Textualize/rich)** (49k+ ⭐) — [Root-cause diagnosis & verified fix for Issue #4214](https://github.com/Textualize/rich/issues/4214): Resolved `ZeroDivisionError` in `Columns` when available terminal width is smaller than item width plus padding.
 - **[Textualize/textual](https://github.com/Textualize/textual)** (26k+ ⭐) — [Fix & Tests for Issue #6708](https://github.com/Textualize/textual/issues/6708): Resolved unhandled `IndexError` in `Selection.extract` when mouse selecting on/across trailing empty lines of widgets.
-- **[Duff89/parser_avito](https://github.com/Duff89/parser_avito)** — [PR #327](https://github.com/Duff89/parser_avito/pull/327): Fixed critical crashes in address filter, Excel export edge cases, and GUI thread freeze.
+- **[Duff89/parser_avito](https://github.com/Duff89/parser_avito)** — [PR #331](https://github.com/Duff89/parser_avito/pull/331) (incremental per-page result persistence preventing data loss on crash) & [PR #327](https://github.com/Duff89/parser_avito/pull/327) (address filter, Excel export, and GUI threading fixes).
 
 ---
 
 ### 📬 Get in Touch
 
 - **Telegram:** [@charter2029](https://t.me/charter2029)
-- **Email:** [M_N_Nik@yahoo.com](mailto:M_N_Nik@yahoo.com)
+- **Email:** [M_N_Nik@yahoo.com](mailto:M_N_Nik@yahoo.com) | [eminsk.info@gmail.com](mailto:eminsk.info@gmail.com)
 - **GitHub:** [github.com/eminsk](https://github.com/eminsk)
