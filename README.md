@@ -30,6 +30,7 @@ Combining decades of foundational systems programming — from low-level archite
 
 ### 🚀 Featured Projects
 
+- **[nanovector](https://github.com/eminsk/nanovector)** — The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Zero dependencies, instant 0.2ms cold start, pure C99 with AVX2+FMA, ARM NEON, and hand-crafted FASM x64 assembly kernels.
 - **[nanogemm](https://github.com/eminsk/nanogemm)** — Minimalist, bare-metal AVX2+FMA & ARM NEON matrix multiplication engine in ~100KB for Python, outperforming NumPy by up to 2.8x on CPU for edge neural network inference. Featured in [The Daily Diff](https://tdd.cat/2026-09-07/) (9/10 Depth Score), trending on GitHub (Deep Learning), and published on [PyPI](https://pypi.org/project/nanogemm/).
 - **[screenvideo](https://github.com/eminsk/screenvideo)** — High-performance desktop screen recorder and screenshot suite featuring WASAPI loopback audio, real-time H.264 streaming, and a standalone pure x64 Flat Assembler (FASM) native edition ([Release v2.0.0](https://github.com/eminsk/screenvideo/releases/tag/v2.0.0)).
 - **[xlsx_vievers](https://github.com/eminsk/xlsx_vievers)** — High-performance spreadsheet library and desktop processor with a headless 129-function formula engine, hardware-accelerated SIMD SSE2 math, Chart Wizard, AutoFilter, and Goal Seek. Published on [PyPI](https://pypi.org/project/xlsx-viewer-pro/) as `xlsx-viewer-pro` with Python 3.10–3.15 support.
