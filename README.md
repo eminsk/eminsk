@@ -5,6 +5,7 @@
 [![Developer Portal](https://img.shields.io/badge/Developer_Portal-eminsk.github.io-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://eminsk.github.io/)
 [![Conda Downloads](https://img.shields.io/badge/Conda--Downloads-22k%2B-green?style=for-the-badge&logo=anaconda&logoColor=white)](https://anaconda.org/m_n_nik)
 [![Free 3h Proxy Trial](https://img.shields.io/badge/Mobile_Proxy-Free_3h_Trial_(No_VPN)-00C853?style=for-the-badge&logo=shield&logoColor=white)](https://mobileproxy.rent/user.html?free&p=279117)
+[![Telegram Channel](https://img.shields.io/badge/TG_Channel-@avito__sdk__pro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avito_sdk_pro)
 [![Telegram](https://img.shields.io/badge/Telegram-@charter2029-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/charter2029)
 [![X (Twitter)](https://img.shields.io/badge/X-@wmoplata-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wmoplata)
 [![Email](https://img.shields.io/badge/Email-M__N__Nik@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:M_N_Nik@yahoo.com)
@@ -63,6 +64,7 @@
 ### 📬 Get in Touch
 
 - **Developer Portal:** [eminsk.github.io](https://eminsk.github.io/)
+- **Telegram Channel (Releases & Proxies):** [@avito_sdk_pro](https://t.me/avito_sdk_pro)
 - **Telegram:** [@charter2029](https://t.me/charter2029)
 - **X (Twitter):** [@wmoplata](https://x.com/wmoplata)
 - **Email:** [M_N_Nik@yahoo.com](mailto:M_N_Nik@yahoo.com)
