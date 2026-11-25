@@ -6,6 +6,7 @@
 [![Conda Downloads](https://img.shields.io/badge/Conda--Downloads-22k%2B-green?style=for-the-badge&logo=anaconda&logoColor=white)](https://anaconda.org/m_n_nik)
 [![Free 3h Proxy Trial](https://img.shields.io/badge/Mobile_Proxy-Free_3h_Trial_(No_VPN)-00C853?style=for-the-badge&logo=shield&logoColor=white)](https://mobileproxy.rent/user.html?free&p=279117)
 [![Telegram](https://img.shields.io/badge/Telegram-@charter2029-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/charter2029)
+[![X (Twitter)](https://img.shields.io/badge/X-@wmoplata-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wmoplata)
 [![Email](https://img.shields.io/badge/Email-M__N__Nik@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:M_N_Nik@yahoo.com)
 
 ---
@@ -63,5 +64,6 @@
 
 - **Developer Portal:** [eminsk.github.io](https://eminsk.github.io/)
 - **Telegram:** [@charter2029](https://t.me/charter2029)
+- **X (Twitter):** [@wmoplata](https://x.com/wmoplata)
 - **Email:** [M_N_Nik@yahoo.com](mailto:M_N_Nik@yahoo.com)
 - **GitHub:** [github.com/eminsk](https://github.com/eminsk)
